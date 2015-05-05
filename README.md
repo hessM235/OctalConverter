@@ -1,6 +1,6 @@
 # OctalConverter
 Converts an octal number to binary or hexadecimal
 
-This was a class project.  Use procedural programming to create octal number converter.
+Class project for introductory CS course using procedural programming to create an octal number converter.
 
-The code isn't DRY in some places, and could use some refactoring. Feel free to borrow, fork, or use this code for educational purposes.
+The code isn't DRY in some places and could use some refactoring. The methods don't have comments. Feel free to borrow, fork, or use this code for educational purposes.
