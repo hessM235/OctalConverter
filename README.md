@@ -6,7 +6,7 @@ Class project for introductory CS course using procedural programming to create 
 
 Instructions:
 
-1. Copy and paste code to your favorite text editor save as NumberConverter.java
+1. Copy and paste code to your favorite text editor and save as NumberConverter.java
 2. Open command/terminal, navigate to the directory where the NumberConverter.java has been saved, and type "javac NumberConverter.java"
 3. Type "java NumberConverter"
 4. Voila
