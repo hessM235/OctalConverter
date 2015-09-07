@@ -7,7 +7,7 @@ Class project for introductory CS course using procedural programming to create 
 Instructions:
 
 1. Copy and paste code to your favorite text editor save as NumberConverter.java
-2. comment out or delete "package number converter;"
+2. Comment out or delete "package number converter;" this should be located at line 5
 3. open command/terminal, navigate to the directory where the NumberConverter.java has been saved, and type javac NumberConverter.java
 4. type java NumberConverter
 5. Voila
