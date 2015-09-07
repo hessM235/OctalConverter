@@ -8,8 +8,8 @@ Instructions:
 
 1. Copy and paste code to your favorite text editor save as NumberConverter.java
 2. Comment out or delete "package number converter;" this should be located at line 5
-3. Open command/terminal, navigate to the directory where the NumberConverter.java has been saved, and type javac NumberConverter.java
-4. Type java NumberConverter
+3. Open command/terminal, navigate to the directory where the NumberConverter.java has been saved, and type "javac NumberConverter.java"
+4. Type "java NumberConverter"
 5. Voila
    
 You will have to make sure your classpath is setup properly for both java and javac.  Please see: https://docs.oracle.com/javase/tutorial/essential/environment/paths.html
