@@ -11,6 +11,6 @@ Instructions:
 3. Type "java NumberConverter"
 4. Voila
    
-You will have to make sure your classpath is setup properly for both java and javac.  Please see: https://docs.oracle.com/javase/tutorial/essential/environment/paths.html
+You will have to make sure your classpath is setup properly for both java and javac -- if it isn't already.  Please see: https://docs.oracle.com/javase/tutorial/essential/environment/paths.html
 
 
